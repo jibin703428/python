@@ -13,7 +13,7 @@ img{width: 100%;}
 }
 
 .a{ text-align: center;
-    margin-top: 5%;
+    margin-top: 10%;
     margin-bottom: 5%;}
 
 .b{margin-bottom: 5%;
@@ -23,16 +23,40 @@ img{width: 100%;}
 
 .b1{text-align: center;}
 
-.c{ margin-left: 5%;
-     margin-right: 5%;}
+.c{}
+
+
+.online{
+     padding-right: 4%;
+     padding-bottom: 4%;
+}
+.indoor{
+     padding-right: 4%;
+     padding-bottom: 4%;
+}
+.amazing{
+     padding-right: 4%;
+     padding-bottom: 4%;
+}
+
+
+
+
 
 .d{ text-align: center;
+     height: 800px;
      margin-top: 10%; 
      padding-left: 20%; 
      padding-right: 20%; 
-     color:rgb(255, 255, 255);
-     background-image: url(file:///C:/Users/synnefo/Documents/jibin/images/testimonials_user.jpg.webp) ;
+     color:rgb(12, 10, 10);
+     background-image: url(https://media.istockphoto.com/id/1345763805/photo/four-hands-holding-graduation-hats-on-background-of-blue-sky.jpg?b=1&s=170667a&w=0&k=20&c=4cvIHw9-z6pVmDx735pwttVxAcLcLaXp0IFKiMDb9Sw=);
+     background-size: 100%;
      }
+
+
+.d p{
+     font-size:large ;
+}
 
 n{color:rgb(255, 255, 255);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
